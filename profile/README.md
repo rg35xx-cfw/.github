@@ -8,4 +8,4 @@ Documentation will be available [here](https://rg35xx-cfw.github.io) (TBA)
 
 Issues will be added [here](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/issues)
 
-Latest release: [rg35xx_batocera_lite_alpha_v0.2](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/releases/tag/rg35xx_batocera_lite_alpha_v0.2)
+Latest release: [rg35xx_batocera_lite_alpha_v0.3](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/releases/tag/rg35xx_batocera_lite_alpha_v0.3)
