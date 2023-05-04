@@ -4,7 +4,7 @@ This space is going to be updated with all the necessary repositories and docume
 
 Please visit [this page](https://ko-fi.com/acmeplus) for development updates and other related information.
 
-Documentation is [here](https://rg35xx-cfw.github.io) (TBA)
+Documentation is [here](https://rg35xx-cfw.github.io)
 
 Issues can be found [here](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/issues)
 
