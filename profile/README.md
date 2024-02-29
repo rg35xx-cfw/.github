@@ -10,7 +10,7 @@ Issues can be found [here](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/is
 
 Latest releases: 
 * [Koriki/Batocera Lite for RG35XX](https://github.com/rg35xx-cfw/Koriki/releases/tag/koriki_batocera_rg35xx_20240105)
-* [Koriki/Batocera Lite for RG35XX Plus and RG35XX H](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/releases/tag/rg35xx_plus_h_batocera_lite_20240213) (beta)
+* [Koriki/Batocera v39 for RG35XX Plus and RG35XX H](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/releases/tag/rg35xx_plus_h_batocera_20240220) (beta)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1J951S)
