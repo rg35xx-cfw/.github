@@ -6,7 +6,11 @@ Please visit [this page](https://ko-fi.com/acmeplus) for development updates and
 
 Documentation is [here](https://rg35xx-cfw.github.io)
 
-Issues can be found [here](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/issues)
+Issues for RG35XX Plus/H can be found [here](https://github.com/rg35xx-cfw/rg35xx-cfw.github.io/issues)
+
+Source code for Batocera and buildroot changes are in the rg35xx-plus-wip and rg35xx-wip branches of these repositories:
+* [Batocera](https://github.com/rg35xx-cfw/batocera.linux)
+* [buildroot](https://github.com/rg35xx-cfw/buildroot)
 
 Latest releases: 
 * [Koriki/Batocera Lite for RG35XX](https://github.com/rg35xx-cfw/Koriki/releases/tag/koriki_batocera_rg35xx_20240105)
